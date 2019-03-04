@@ -1,0 +1,62 @@
+[04-Jul-2018 08:04:54] NOTICE: fpm is running, pid 1
+[04-Jul-2018 08:04:54] NOTICE: ready to handle connections
+[04-Jul-2018 08:05:18] NOTICE: Terminating ...
+[04-Jul-2018 08:05:18] NOTICE: exiting, bye-bye!
+[04-Jul-2018 08:05:26] NOTICE: fpm is running, pid 1
+[04-Jul-2018 08:05:26] NOTICE: ready to handle connections
+[04-Jul-2018 14:31:42] NOTICE: Terminating ...
+[04-Jul-2018 14:31:42] NOTICE: exiting, bye-bye!
+[05-Jul-2018 02:18:02] NOTICE: fpm is running, pid 1
+[05-Jul-2018 02:18:02] NOTICE: ready to handle connections
+[05-Jul-2018 10:46:31] NOTICE: Terminating ...
+[05-Jul-2018 10:46:31] NOTICE: exiting, bye-bye!
+[06-Jul-2018 13:21:29] NOTICE: fpm is running, pid 1
+[06-Jul-2018 13:21:29] NOTICE: ready to handle connections
+[11-Jul-2018 07:21:27] NOTICE: Terminating ...
+[11-Jul-2018 07:21:27] NOTICE: exiting, bye-bye!
+[12-Jul-2018 02:50:46] NOTICE: fpm is running, pid 1
+[12-Jul-2018 02:50:46] NOTICE: ready to handle connections
+[13-Jul-2018 02:01:21] NOTICE: Terminating ...
+[13-Jul-2018 02:01:21] NOTICE: exiting, bye-bye!
+[13-Jul-2018 02:03:33] NOTICE: fpm is running, pid 1
+[13-Jul-2018 02:03:33] NOTICE: ready to handle connections
+[16-Jul-2018 03:23:56] NOTICE: Terminating ...
+[16-Jul-2018 03:23:56] NOTICE: exiting, bye-bye!
+[16-Jul-2018 03:24:04] NOTICE: fpm is running, pid 1
+[16-Jul-2018 03:24:04] NOTICE: ready to handle connections
+[16-Jul-2018 03:26:19] NOTICE: Terminating ...
+[16-Jul-2018 03:26:19] NOTICE: exiting, bye-bye!
+[16-Jul-2018 03:26:35] NOTICE: fpm is running, pid 1
+[16-Jul-2018 03:26:35] NOTICE: ready to handle connections
+[19-Jul-2018 02:18:32] NOTICE: Terminating ...
+[19-Jul-2018 02:18:32] NOTICE: exiting, bye-bye!
+[19-Jul-2018 02:18:42] NOTICE: fpm is running, pid 1
+[19-Jul-2018 02:18:42] NOTICE: ready to handle connections
+[19-Jul-2018 05:30:11] NOTICE: Terminating ...
+[19-Jul-2018 05:30:11] NOTICE: exiting, bye-bye!
+[19-Jul-2018 05:35:10] NOTICE: fpm is running, pid 1
+[19-Jul-2018 05:35:10] NOTICE: ready to handle connections
+[20-Jul-2018 03:08:37] WARNING: [pool www] child 7 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/wwwroot/max_console/backend/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 03:08:37] WARNING: [pool www] child 7 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/wwwroot/max_console/backend/web/../../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 03:49:52] NOTICE: Terminating ...
+[20-Jul-2018 03:49:52] NOTICE: exiting, bye-bye!
+[20-Jul-2018 06:11:29] NOTICE: fpm is running, pid 1
+[20-Jul-2018 06:11:29] NOTICE: ready to handle connections
+[20-Jul-2018 06:11:32] WARNING: [pool www] child 7 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/wwwroot/max_console/backend/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 06:11:32] WARNING: [pool www] child 7 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/wwwroot/max_console/backend/web/../../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 06:13:49] WARNING: [pool www] child 8 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/wwwroot/max_console/backend/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 06:13:49] WARNING: [pool www] child 8 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/wwwroot/max_console/backend/web/../../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 06:14:03] WARNING: [pool www] child 7 said into stderr: "NOTICE: PHP message: PHP Warning:  require(/var/wwwroot/max_console/backend/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[20-Jul-2018 06:14:03] WARNING: [pool www] child 7 said into stderr: "NOTICE: PHP message: PHP Fatal error:  require(): Failed opening required '/var/wwwroot/max_console/backend/web/../../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/wwwroot/max_console/backend/web/index.php on line 5"
+[25-Jul-2018 06:22:12] NOTICE: fpm is running, pid 1
+[25-Jul-2018 06:22:12] NOTICE: ready to handle connections
+[25-Jul-2018 06:22:19] NOTICE: Terminating ...
+[25-Jul-2018 06:22:19] NOTICE: exiting, bye-bye!
+[25-Jul-2018 06:22:32] NOTICE: fpm is running, pid 1
+[25-Jul-2018 06:22:32] NOTICE: ready to handle connections
+[25-Jul-2018 07:10:42] NOTICE: Terminating ...
+[25-Jul-2018 07:10:42] NOTICE: exiting, bye-bye!
+[25-Jul-2018 07:23:06] NOTICE: fpm is running, pid 1
+[25-Jul-2018 07:23:06] NOTICE: ready to handle connections
+[01-Aug-2018 02:27:57] NOTICE: fpm is running, pid 1
+[01-Aug-2018 02:27:57] NOTICE: ready to handle connections

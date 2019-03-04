@@ -1,0 +1,48 @@
+[26-Jul-2018 02:04:55 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @config in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(76): yii\BaseYii::getAlias('@config')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:06:20 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(76): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:06:46 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(76): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:06:47 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(76): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:07:15 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(6): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:07:18 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(6): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:08:06 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(6): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
+[26-Jul-2018 02:08:50 UTC] PHP Fatal error:  Uncaught yii\base\InvalidArgumentException: Invalid path alias: @app in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /var/wwwroot/new-blog/config/web.php(6): yii\BaseYii::getAlias('@app')
+#1 /var/wwwroot/new-blog/web/index.php(10): require('/var/wwwroot/ne...')
+#2 {main}
+  thrown in /var/wwwroot/new-blog/vendor/yiisoft/yii2/BaseYii.php on line 154
