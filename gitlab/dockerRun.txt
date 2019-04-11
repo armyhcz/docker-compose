@@ -1,0 +1,8 @@
+docker run --detach --hostname yourIP --publish 443:443 --publish 8088:80 --publish 8888:22 --name gitlab --restart always --volume /srv/gitlab/config:/etc/gitlab --volume /srv/gitlab/logs:/var/log/gitlab --volume /srv/git
+lab/data:/var/opt/gitlab  gitlab/gitlab-ce:latest
+
+编辑vim /srv/gitlab/config/gitlab.rb，修改（默认22修改为8888）：
+
+gitlab_rails['gitlab_shell_ssh_port'] = 8888
+访问：yourIP:8088
+gitlab很卡有些功能没有测完，仅供参考
