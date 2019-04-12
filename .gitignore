@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/.vagrant
+npm-debug.log
+.env
+.phpunit.result.cache
+.DS_Store
